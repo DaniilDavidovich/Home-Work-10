@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Home Work 10
-//
-//  Created by Daniil Davidovich on 29.11.22.
-//
 
 import UIKit
 
